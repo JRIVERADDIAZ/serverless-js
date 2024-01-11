@@ -1,0 +1,50 @@
+{
+
+ "name": "explorers-up-and-running-with-serverless-functions",
+
+ "version": "1.0.0",
+
+ "description": "Learn how to use serverless functions in less than 30 minutes!",
+
+ "main": "index.js",
+
+ "scripts": {
+
+  "test": "echo \"Error: no test specified\" && exit 1"
+
+ },
+
+ "repository": {
+
+  "type": "git",
+
+  "url": "git+https://github.com/JRIVERADDIAZ/serverless-js.git"
+
+ },
+
+ "author": "",
+
+ "license": "ISC",
+
+ "bugs": {
+
+  "url": "https://github.com/JRIVERADDIAZ/serverless-js/issues"
+
+ },
+
+ "homepage": "https://github.com/JRIVERADDIAZ/serverless-js#readme",
+
+ "devDependencies": {
+
+  "node-fetch": "^3.3.2"
+
+ },
+
+ "dependencies": {
+
+  "esm": "^3.2.25"
+
+ }
+
+}
+
